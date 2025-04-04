@@ -12,11 +12,11 @@ Write a Java program to multiply two matrices and display the resultant matrix w
   1 1
   
   ```
-  - Output
-    ```
-    Matrix C:
-    
-    | 30  32 |
-    | 22  23 |
+- Output
+  ```
+  Matrix C:
+  
+  | 30  32 |
+  | 22  23 |
 
-    ```
+  ```
